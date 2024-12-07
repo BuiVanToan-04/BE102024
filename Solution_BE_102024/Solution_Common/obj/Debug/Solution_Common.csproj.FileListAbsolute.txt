@@ -1,0 +1,14 @@
+D:\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_Common\bin\Debug\Solution_Common.exe.config
+D:\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_Common\bin\Debug\Solution_Common.exe
+D:\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_Common\bin\Debug\Solution_Common.pdb
+D:\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_Common\obj\Debug\Solution_Common.csproj.AssemblyReference.cache
+D:\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_Common\obj\Debug\Solution_Common.csproj.CoreCompileInputs.cache
+D:\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_Common\obj\Debug\Solution_Common.exe
+D:\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_Common\obj\Debug\Solution_Common.pdb
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_Common\bin\Debug\Solution_Common.exe.config
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_Common\bin\Debug\Solution_Common.exe
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_Common\bin\Debug\Solution_Common.pdb
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_Common\obj\Debug\Solution_Common.csproj.AssemblyReference.cache
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_Common\obj\Debug\Solution_Common.csproj.CoreCompileInputs.cache
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_Common\obj\Debug\Solution_Common.exe
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_Common\obj\Debug\Solution_Common.pdb

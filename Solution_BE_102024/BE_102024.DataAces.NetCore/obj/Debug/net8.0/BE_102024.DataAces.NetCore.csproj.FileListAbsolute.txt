@@ -1,0 +1,15 @@
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\BE_102024.DataAces.NetCore\bin\Debug\net8.0\BE_102024.DataAces.NetCore.deps.json
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\BE_102024.DataAces.NetCore\bin\Debug\net8.0\BE_102024.DataAces.NetCore.dll
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\BE_102024.DataAces.NetCore\bin\Debug\net8.0\BE_102024.DataAces.NetCore.pdb
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\BE_102024.DataAces.NetCore\obj\Debug\net8.0\BE_102024.DataAces.NetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\BE_102024.DataAces.NetCore\obj\Debug\net8.0\BE_102024.DataAces.NetCore.AssemblyInfoInputs.cache
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\BE_102024.DataAces.NetCore\obj\Debug\net8.0\BE_102024.DataAces.NetCore.AssemblyInfo.cs
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\BE_102024.DataAces.NetCore\obj\Debug\net8.0\BE_102024.DataAces.NetCore.csproj.CoreCompileInputs.cache
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\BE_102024.DataAces.NetCore\obj\Debug\net8.0\BE_102024.DataAces.NetCore.sourcelink.json
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\BE_102024.DataAces.NetCore\obj\Debug\net8.0\BE_102024.DataAces.NetCore.dll
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\BE_102024.DataAces.NetCore\obj\Debug\net8.0\refint\BE_102024.DataAces.NetCore.dll
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\BE_102024.DataAces.NetCore\obj\Debug\net8.0\BE_102024.DataAces.NetCore.pdb
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\BE_102024.DataAces.NetCore\obj\Debug\net8.0\ref\BE_102024.DataAces.NetCore.dll
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\BE_102024.DataAces.NetCore\obj\Debug\net8.0\BE_102024.DataAces.NetCore.csproj.AssemblyReference.cache
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\BE_102024.DataAces.NetCore\bin\Debug\net8.0\BE_102024.DataAces.NetCore.runtimeconfig.json
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\BE_102024.DataAces.NetCore\obj\Debug\net8.0\BE_102024.DataAces.NetCore.genruntimeconfig.cache

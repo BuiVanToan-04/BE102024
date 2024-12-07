@@ -1,0 +1,7 @@
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Slution_CommonNet\bin\Debug\Slution_CommonNet.exe.config
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Slution_CommonNet\bin\Debug\Slution_CommonNet.exe
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Slution_CommonNet\bin\Debug\Slution_CommonNet.pdb
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Slution_CommonNet\obj\Debug\Slution_CommonNet.csproj.AssemblyReference.cache
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Slution_CommonNet\obj\Debug\Slution_CommonNet.csproj.CoreCompileInputs.cache
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Slution_CommonNet\obj\Debug\Slution_CommonNet.exe
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Slution_CommonNet\obj\Debug\Slution_CommonNet.pdb

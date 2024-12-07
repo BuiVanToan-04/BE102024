@@ -1,0 +1,97 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\BE_10_2024_WebAspnetCore\\BE_10_2024_WebAspnetCore.csproj": {}
+  },
+  "projects": {
+    "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\BE_10_2024_WebAspnetCore\\BE_10_2024_WebAspnetCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\BE_10_2024_WebAspnetCore\\BE_10_2024_WebAspnetCore.csproj",
+        "projectName": "BE_10_2024_WebAspnetCore",
+        "projectPath": "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\BE_10_2024_WebAspnetCore\\BE_10_2024_WebAspnetCore.csproj",
+        "packagesPath": "C:\\Users\\buito\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\BE_10_2024_WebAspnetCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\buito\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\Solution_Common\\Solution_Common.csproj": {
+                "projectPath": "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\Solution_Common\\Solution_Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "NLog": {
+              "target": "Package",
+              "version": "[5.3.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\Solution_Common\\Solution_Common.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\Solution_Common\\Solution_Common.csproj",
+        "projectName": "Solution_Common",
+        "projectPath": "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\Solution_Common\\Solution_Common.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_BE_102024\bin\Debug\Solution_BE_102024.exe.config
+D:\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_BE_102024\bin\Debug\Solution_BE_102024.exe
+D:\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_BE_102024\bin\Debug\Solution_BE_102024.pdb
+D:\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_BE_102024\obj\Debug\Solution_BE_102024.csproj.AssemblyReference.cache
+D:\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_BE_102024\obj\Debug\Solution_BE_102024.csproj.CoreCompileInputs.cache
+D:\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_BE_102024\obj\Debug\Solution_BE_102024.exe
+D:\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_BE_102024\obj\Debug\Solution_BE_102024.pdb
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_BE_102024\bin\Debug\Solution_BE_102024.exe.config
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_BE_102024\bin\Debug\Solution_BE_102024.exe
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_BE_102024\bin\Debug\Solution_BE_102024.pdb
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_BE_102024\obj\Debug\Solution_BE_102024.csproj.AssemblyReference.cache
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_BE_102024\obj\Debug\Solution_BE_102024.csproj.CoreCompileInputs.cache
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_BE_102024\obj\Debug\Solution_BE_102024.exe
+D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_BE_102024\obj\Debug\Solution_BE_102024.pdb

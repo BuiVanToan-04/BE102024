@@ -6,14 +6,31 @@ using BE_102024.DataAces.NetCore.DBContext;
 using BE102024.DataAces.NetCore.DAL_Impliment;
 using BE102024.DataAces.NetCore.DAL_Interface;
 using BE102024.DataAces.NetCore.UnitOfWork;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 var configuration = builder.Configuration;
+// Add services to the container.
+
 builder.Services.AddDbContext<BE_102024Context>(options =>
                options.UseSqlServer(configuration.GetConnectionString("BE_102024_ConnString")));
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
+{
+    options.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuer = false,
+        ValidateAudience = false,
+        ValidateLifetime = false,
+        ValidateIssuerSigningKey = false,
+        ValidIssuer = builder.Configuration["Jwt:ValidIssuer"],
+        ValidAudience = builder.Configuration["Jwt:ValidAudience"],
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Secret"]))
+    };
+});
 
-// Add services to the container.
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -32,6 +49,7 @@ builder.Services.AddTransient<IProductRepository, ProductRepository>();
 builder.Services.AddTransient<IOrderRepository, OrderRepository>();
 builder.Services.AddTransient<IOrderDetailRepository, OrderDetailRepository>();
 builder.Services.AddTransient<IUnitOfWork, UnitOfWork>();
+builder.Services.AddTransient<IAccountRepository, AccountRepository>();
 
 var app = builder.Build();
 // Configure the HTTP request pipeline.
@@ -42,6 +60,7 @@ if (app.Environment.IsDevelopment())
 }
 //app.UseMiddleware<MyCustomeMiddlerware>();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

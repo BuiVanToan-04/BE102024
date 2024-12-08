@@ -270,11 +270,5 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Slution_CommonNet\Slution_CommonNet.csproj">
-      <Project>{0a7dda13-ae92-4a53-8180-ed2ed926242f}</Project>
-      <Name>Slution_CommonNet</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

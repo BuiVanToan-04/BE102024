@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Di130fgf8/Q=",
+  "dgSpecHash": "ZF426bm6OOo=",
   "success": true,
-  "projectFilePath": "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\BE_102024.DataAces.NetCore\\BE_102024.DataAces.NetCore.csproj",
+  "projectFilePath": "D:\\C#\\C# Thay_Quan\\Solution_BE102024\\Solution_BE_102024\\BE_102024.DataAces.NetCore\\BE_102024.DataAces.NetCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\buito\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\buito\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

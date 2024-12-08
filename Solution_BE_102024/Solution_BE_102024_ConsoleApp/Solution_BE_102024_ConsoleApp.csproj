@@ -49,11 +49,5 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Solution_BE_102024_DataAcessNetFrameWork\Solution_BE_102024_DataAcessNetFrameWork.csproj">
-      <Project>{d889b376-18c8-4663-88ff-081f502a4b31}</Project>
-      <Name>Solution_BE_102024_DataAcessNetFrameWork</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

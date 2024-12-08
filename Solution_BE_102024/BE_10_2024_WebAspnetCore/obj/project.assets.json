@@ -14,15 +14,6 @@
             "related": ".xml"
           }
         }
-      },
-      "Solution_Common/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/Solution_Common.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Solution_Common.dll": {}
-        }
       }
     }
   },
@@ -50,17 +41,12 @@
         "nlog.5.3.4.nupkg.sha512",
         "nlog.nuspec"
       ]
-    },
-    "Solution_Common/1.0.0": {
-      "type": "project",
-      "path": "../Solution_Common/Solution_Common.csproj",
-      "msbuildProject": "../Solution_Common/Solution_Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "NLog >= 5.3.4",
-      "Solution_Common >= 1.0.0"
+      "D:\\C#\\C# Thay_Quan\\Solution_BE102024\\Solution_BE_102024\\Solution_Common\\Solution_Common.csproj",
+      "NLog >= 5.3.4"
     ]
   },
   "packageFolders": {
@@ -69,11 +55,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\BE_10_2024_WebAspnetCore\\BE_10_2024_WebAspnetCore.csproj",
+      "projectUniqueName": "D:\\C#\\C# Thay_Quan\\Solution_BE102024\\Solution_BE_102024\\BE_10_2024_WebAspnetCore\\BE_10_2024_WebAspnetCore.csproj",
       "projectName": "BE_10_2024_WebAspnetCore",
-      "projectPath": "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\BE_10_2024_WebAspnetCore\\BE_10_2024_WebAspnetCore.csproj",
+      "projectPath": "D:\\C#\\C# Thay_Quan\\Solution_BE102024\\Solution_BE_102024\\BE_10_2024_WebAspnetCore\\BE_10_2024_WebAspnetCore.csproj",
       "packagesPath": "C:\\Users\\buito\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\BE_10_2024_WebAspnetCore\\obj\\",
+      "outputPath": "D:\\C#\\C# Thay_Quan\\Solution_BE102024\\Solution_BE_102024\\BE_10_2024_WebAspnetCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\buito\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -91,8 +77,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\Solution_Common\\Solution_Common.csproj": {
-              "projectPath": "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\Solution_Common\\Solution_Common.csproj"
+            "D:\\C#\\C# Thay_Quan\\Solution_BE102024\\Solution_BE_102024\\Solution_Common\\Solution_Common.csproj": {
+              "projectPath": "D:\\C#\\C# Thay_Quan\\Solution_BE102024\\Solution_BE_102024\\Solution_Common\\Solution_Common.csproj"
             }
           }
         }
@@ -139,5 +125,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'D:\\C#\\C# Thay_Quan\\Solution_BE102024\\Solution_BE_102024\\Solution_Common\\Solution_Common.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "D:\\C#\\C# Thay_Quan\\Solution_BE102024\\Solution_BE_102024\\Solution_Common\\Solution_Common.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\BE_10_2024_WebAspnetCore\\BE_10_2024_WebAspnetCore.csproj": {}
+    "D:\\C#\\C# Thay_Quan\\Solution_BE102024\\Solution_BE_102024\\BE_10_2024_WebAspnetCore\\BE_10_2024_WebAspnetCore.csproj": {}
   },
   "projects": {
-    "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\BE_10_2024_WebAspnetCore\\BE_10_2024_WebAspnetCore.csproj": {
+    "D:\\C#\\C# Thay_Quan\\Solution_BE102024\\Solution_BE_102024\\BE_10_2024_WebAspnetCore\\BE_10_2024_WebAspnetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\BE_10_2024_WebAspnetCore\\BE_10_2024_WebAspnetCore.csproj",
+        "projectUniqueName": "D:\\C#\\C# Thay_Quan\\Solution_BE102024\\Solution_BE_102024\\BE_10_2024_WebAspnetCore\\BE_10_2024_WebAspnetCore.csproj",
         "projectName": "BE_10_2024_WebAspnetCore",
-        "projectPath": "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\BE_10_2024_WebAspnetCore\\BE_10_2024_WebAspnetCore.csproj",
+        "projectPath": "D:\\C#\\C# Thay_Quan\\Solution_BE102024\\Solution_BE_102024\\BE_10_2024_WebAspnetCore\\BE_10_2024_WebAspnetCore.csproj",
         "packagesPath": "C:\\Users\\buito\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\BE_10_2024_WebAspnetCore\\obj\\",
+        "outputPath": "D:\\C#\\C# Thay_Quan\\Solution_BE102024\\Solution_BE_102024\\BE_10_2024_WebAspnetCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\buito\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\Solution_Common\\Solution_Common.csproj": {
-                "projectPath": "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\Solution_Common\\Solution_Common.csproj"
+              "D:\\C#\\C# Thay_Quan\\Solution_BE102024\\Solution_BE_102024\\Solution_Common\\Solution_Common.csproj": {
+                "projectPath": "D:\\C#\\C# Thay_Quan\\Solution_BE102024\\Solution_BE_102024\\Solution_Common\\Solution_Common.csproj"
               }
             }
           }
@@ -76,21 +76,6 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
-      }
-    },
-    "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\Solution_Common\\Solution_Common.csproj": {
-      "restore": {
-        "projectUniqueName": "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\Solution_Common\\Solution_Common.csproj",
-        "projectName": "Solution_Common",
-        "projectPath": "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\Solution_Common\\Solution_Common.csproj",
-        "frameworks": {
-          "net472": {
-            "projectReferences": {}
-          }
-        }
-      },
-      "frameworks": {
-        "net472": {}
       }
     }
   }

@@ -35,3 +35,6 @@ D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\BE_10_2024_WebAspnetC
 D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\BE_10_2024_WebAspnetCore\obj\Debug\net8.0\BE_10_2024_WebAspnetCore.pdb
 D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\BE_10_2024_WebAspnetCore\obj\Debug\net8.0\BE_10_2024_WebAspnetCore.genruntimeconfig.cache
 D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\BE_10_2024_WebAspnetCore\obj\Debug\net8.0\ref\BE_10_2024_WebAspnetCore.dll
+D:\C#\C# Thay_Quan\Solution_BE102024\Solution_BE_102024\BE_10_2024_WebAspnetCore\obj\Debug\net8.0\BE_10_2024_WebAspnetCore.dll
+D:\C#\C# Thay_Quan\Solution_BE102024\Solution_BE_102024\BE_10_2024_WebAspnetCore\obj\Debug\net8.0\refint\BE_10_2024_WebAspnetCore.dll
+D:\C#\C# Thay_Quan\Solution_BE102024\Solution_BE_102024\BE_10_2024_WebAspnetCore\obj\Debug\net8.0\BE_10_2024_WebAspnetCore.pdb

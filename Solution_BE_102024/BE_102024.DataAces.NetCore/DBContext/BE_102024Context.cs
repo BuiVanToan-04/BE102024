@@ -22,5 +22,6 @@ namespace BE_102024.DataAces.NetCore.DBContext
         public virtual DbSet<Order> Order { get; set; }
         public virtual DbSet<OrderDetail> OrderDetail { get; set; }
         public virtual DbSet<Product> ProductOrder { get; set; }
+        public virtual DbSet<User> User { get; set; }
     }
 }

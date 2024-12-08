@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\BE_102024.DataAces.NetCore\\BE_102024.DataAces.NetCore.csproj": {}
+    "D:\\C#\\C# Thay_Quan\\Solution_BE102024\\Solution_BE_102024\\BE_102024.DataAces.NetCore\\BE_102024.DataAces.NetCore.csproj": {}
   },
   "projects": {
-    "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\BE_102024.DataAces.NetCore\\BE_102024.DataAces.NetCore.csproj": {
+    "D:\\C#\\C# Thay_Quan\\Solution_BE102024\\Solution_BE_102024\\BE_102024.DataAces.NetCore\\BE_102024.DataAces.NetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\BE_102024.DataAces.NetCore\\BE_102024.DataAces.NetCore.csproj",
+        "projectUniqueName": "D:\\C#\\C# Thay_Quan\\Solution_BE102024\\Solution_BE_102024\\BE_102024.DataAces.NetCore\\BE_102024.DataAces.NetCore.csproj",
         "projectName": "BE_102024.DataAces.NetCore",
-        "projectPath": "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\BE_102024.DataAces.NetCore\\BE_102024.DataAces.NetCore.csproj",
+        "projectPath": "D:\\C#\\C# Thay_Quan\\Solution_BE102024\\Solution_BE_102024\\BE_102024.DataAces.NetCore\\BE_102024.DataAces.NetCore.csproj",
         "packagesPath": "C:\\Users\\buito\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\C# Thay_Quan\\BE_092024\\BuiVanToan\\Solution_BE_102024\\BE_102024.DataAces.NetCore\\obj\\",
+        "outputPath": "D:\\C#\\C# Thay_Quan\\Solution_BE102024\\Solution_BE_102024\\BE_102024.DataAces.NetCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\buito\\AppData\\Roaming\\NuGet\\NuGet.Config",

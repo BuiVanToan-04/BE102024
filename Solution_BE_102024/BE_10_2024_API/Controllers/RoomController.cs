@@ -2,6 +2,7 @@
 using BE_102024.DataAces.NetCore.DataOpject;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 
 namespace BE_10_2024_API.Controllers
 {
@@ -15,6 +16,7 @@ namespace BE_10_2024_API.Controllers
             _roomRepository = roomRepository;
         }
 
+        [Authorize(Roles = "admin")]
         [HttpGet("GetAllRoom")]
         public async Task<IActionResult> GetAllRoom(string? roomName)
         {

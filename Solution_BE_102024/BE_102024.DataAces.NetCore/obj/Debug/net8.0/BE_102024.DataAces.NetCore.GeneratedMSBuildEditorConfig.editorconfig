@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BE_102024.DataAces.NetCore
-build_property.ProjectDir = D:\C#\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\BE_102024.DataAces.NetCore\
+build_property.ProjectDir = D:\C#\C# Thay_Quan\Solution_BE102024\Solution_BE_102024\BE_102024.DataAces.NetCore\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

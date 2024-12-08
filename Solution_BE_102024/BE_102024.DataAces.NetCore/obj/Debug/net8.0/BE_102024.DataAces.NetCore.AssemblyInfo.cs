@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BE_102024.DataAces.NetCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4b2e0fa2485bc038bfa9f0a7628aafde4b11159")]
 [assembly: System.Reflection.AssemblyProductAttribute("BE_102024.DataAces.NetCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BE_102024.DataAces.NetCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

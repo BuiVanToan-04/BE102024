@@ -2,6 +2,8 @@
 
 using BE_102024.DataAces.NetCore.DAL;
 using BE_102024.DataAces.NetCore.DALImpliment;
+using BE_102024.DataAces.NetCore.DALImpliment.ImplimentCreateToken;
+using BE_102024.DataAces.NetCore.DALImpliment.Token;
 using BE_102024.DataAces.NetCore.DBContext;
 using BE102024.DataAces.NetCore.DAL_Impliment;
 using BE102024.DataAces.NetCore.DAL_Interface;
@@ -19,7 +21,7 @@ builder.Services.AddDbContext<BE_102024Context>(options =>
                options.UseSqlServer(configuration.GetConnectionString("BE_102024_ConnString")));
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
 {
-    options.TokenValidationParameters = new TokenValidationParameters
+    options.TokenValidationParameters = new TokenValidationParameters 
     {
         ValidateIssuer = false,
         ValidateAudience = false,
@@ -43,6 +45,7 @@ builder.Services.AddSingleton<ICategoryRepository, CategoryRepository>();
 builder.Services.AddSingleton<IProductRepositor, ProductRepositor>();
 //builder.Services.AddSingleton<IGenericRoomRepository, GenericRoomRepository>();
 builder.Services.AddTransient<IRoomRepository, RoomRepository>();
+builder.Services.AddTransient<IToken, TokenImpliment>();
 
 
 builder.Services.AddTransient<IProductRepository, ProductRepository>();

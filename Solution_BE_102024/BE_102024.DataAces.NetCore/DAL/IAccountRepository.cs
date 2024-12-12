@@ -13,5 +13,7 @@ namespace BE_102024.DataAces.NetCore.DAL
     public interface IAccountRepository
     {
         Task<User> UserLogin(AccountLoginRequestData requestData);
+        Task<Function> GetFunctionIDByName(string functionCode);
+        Task<Permission> GetPermisstionUserIDOfFunctionID(int UserID, int functionID);
     }
 }

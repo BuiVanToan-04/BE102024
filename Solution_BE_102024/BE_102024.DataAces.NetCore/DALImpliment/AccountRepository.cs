@@ -18,11 +18,23 @@ namespace BE_102024.DataAces.NetCore.DALImpliment
     public class AccountRepository : IAccountRepository
     {
         BE_102024Context _context;
-        
-        public AccountRepository(BE_102024Context context)
+        private IConfiguration _configuration;
+
+        public AccountRepository(BE_102024Context context, IConfiguration configuration)
         {
             _context = context;
+            _configuration = configuration;
         }
+        public async Task<Function> GetFunctionIDByName(string functionCode)
+        {
+            return _context.Function.Where(s=> s.FunctionCode == functionCode).FirstOrDefault();
+        }
+
+        public async Task<Permission> GetPermisstionUserIDOfFunctionID(int UserID, int functionID)
+        {
+            return _context.Permission.Where(s=> s.UserID == UserID && s.FunctionID == functionID).FirstOrDefault();
+        }
+
         public async Task<User> UserLogin(AccountLoginRequestData requestData)
         {
             try
@@ -30,7 +42,7 @@ namespace BE_102024.DataAces.NetCore.DALImpliment
                 var passWordHash = Security.EncryptPassWord(requestData.Password);
 
                 var user = _context.User.ToList().Where( s => s.UserName == requestData.UserName 
-                && s.PassWord == passWordHash && s.Roles == requestData.Roles).FirstOrDefault();
+                && s.PassWord == passWordHash).FirstOrDefault();
 
                 return user;
             }
@@ -39,5 +51,6 @@ namespace BE_102024.DataAces.NetCore.DALImpliment
                 throw;
             }
         }
+        
     }
 }

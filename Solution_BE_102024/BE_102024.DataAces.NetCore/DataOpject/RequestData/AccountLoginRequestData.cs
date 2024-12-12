@@ -11,7 +11,5 @@ namespace BE_102024.DataAces.NetCore.DataOpject.RequestData
         public string UserName { get; set; }
 
         public string Password { get; set; }
-
-        public string Roles { get; set; }
     }
 }
